@@ -264,8 +264,6 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  padding-top: 32px;
-  padding-bottom: 8px;
   margin-bottom: 8px;
 }
 .team-prof {
@@ -274,7 +272,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
   width: calc((100%-72px) / 4);
 }
 .social-link {
@@ -365,8 +363,6 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-top: 32px;
-  padding-bottom: 8px;
   padding-left: 16px;
   margin-bottom: 8px;
 }
@@ -376,7 +372,6 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
   padding-left: 16px;
-  padding-bottom: 32px;
 }
 /* Footer */
 .footer-back-color {
